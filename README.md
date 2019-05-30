@@ -1,2 +1,3 @@
-# Working Through
-# Java Programming Masterclass for Software Developers by Tim Buchalka
+# Udemy Course
+Java Programming Masterclass for Software Developers
+Created by Tim Buchalka
