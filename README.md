@@ -1,1 +1,2 @@
-# Java-Programming-Masterclass
+# Working Through
+# Java Programming Masterclass for Software Developers by Tim Buchalka
